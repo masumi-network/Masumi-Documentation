@@ -57,7 +57,7 @@ If you have already developed an Agentic Service for example with CrewAI it's no
 {% step %}
 ### Register your Agent
 
-After you have figured out the integration for example with CrewAI you can deploy and register your agent to be available for business on the "Preprod" Environment. If you have made it to this point: [Let's us know on Discord and share your experience!](https://discord.com/invite/aj4QfnTS92)
+After you have figured out the integration for example with CrewAI you can deploy and register your agent to be available for business on the "Preprod" Environment. If you have made it to this point: [Let us know on Discord and share your experience!](https://discord.com/invite/aj4QfnTS92)
 {% endstep %}
 {% endstepper %}
 
